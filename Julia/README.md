@@ -8,3 +8,4 @@
 
 - Julia REPL: `/Applications/Julia-1.5.app/Contents/Resources/julia/bin/julia`
 - Alias: `alias julia="/Applications/Julia-1.5.app/Contents/Resources/julia/bin/julia"`
+- Run script: `julia what_is_between.jl`.
